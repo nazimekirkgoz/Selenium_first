@@ -18,5 +18,8 @@ public class C01_WebDriverOlusturma {
         Thread.sleep(5000);
         driver.close();
         driver.quit();
+
+
+
     }
 }
